@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mkhoirun-najiboi
-- 👀 I’m interested in computational mathematics, machine learning, and data-driven
+- 👀 I’m interested in computational mathematics, machine learning, and data-driven analysis
 - 🌱 I’m currently learning copula joint distribution
 - 💞️ I’m looking to collaborate on atmospheric science and climatology
 - 📫 You can reach me via email mkhoirun_najib@apps.ipb.ac.id
